@@ -13,3 +13,10 @@ A menu-driven console application developed in Python that allows users to place
 - Modular and clean code structure
 
 ## Project Structure
+
+Restaurant_Billing_System/
+│
+├── README.md
+├── restaurant_billing.py
+├── restaurant_billing.ipynb
+
